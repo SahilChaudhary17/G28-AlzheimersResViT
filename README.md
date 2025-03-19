@@ -18,8 +18,16 @@ This project focuses on the **early prediction of Alzheimer's Disease (AD)** usi
 ### Prerequisites
 - Python 3.9.6
 - TensorFlow 2.18.0
-- Scikit-learn, NumPy, Matplotlib, Seaborn, Pandas
-- torch, torchvision, super-gradients, split-folders
+- Torch version: 2.6.0+cu124
+- Torchvision version: 0.21.0+cu124
+- NumPy version: 1.24.3
+- Pandas version: 2.2.3
+- Scikit-learn version: 1.6.1
+- Matplotlib version: 3.10.1
+- Seaborn version: 0.13.2
+- super-gradients version: 3.7.1
+- Pillow version: 11.1.0
+- split-folders version: 0.5.1
 
 ### Setup
 1. **Clone the Repository:**
